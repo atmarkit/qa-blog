@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: announcement | QA@IT開発ブログ]]></title>
+  <link href="http://atmarkit.github.com/qa-blog/blog/categories/announcement/atom.xml" rel="self"/>
+  <link href="http://atmarkit.github.com/qa-blog/"/>
+  <updated>2012-12-07T15:33:28+09:00</updated>
+  <id>http://atmarkit.github.com/qa-blog/</id>
+  <author>
+    <name><![CDATA[＠IT]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[ブログを始めます]]></title>
+    <link href="http://atmarkit.github.com/qa-blog/blog/2012/08/20/start-blogging/"/>
+    <updated>2012-08-20T14:53:00+09:00</updated>
+    <id>http://atmarkit.github.com/qa-blog/blog/2012/08/20/start-blogging</id>
+    <content type="html"><![CDATA[<p>QA@ITの新機能や、開発・運用についてのブログを始めます。試しにコードブロックを入れてみます。</p>
+
+<p>```ruby
+class String
+  def hello</p>
+
+<pre><code>puts "Hello, #{self}"
+</code></pre>
+
+<p>  end
+end
+```</p>
+]]></content>
+  </entry>
+  
+</feed>
